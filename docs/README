@@ -1,0 +1,13 @@
+目标：个人信息管理的系统
+1. 开发日志（Java、Python ）
+2. 财务投资日志（个人、儿子）
+3. 每日计划
+4. 每日总结
+
+技术规范：
+1. springMVC
+2. mybatis
+3. MongoDB
+
+参考资料：
+https://www.iteye.com/blog/520shuijing-2278126
