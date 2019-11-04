@@ -7,6 +7,23 @@
 <title>Index</title>
 </head>
 <body>
-Hello, Jimmy!
+Hello, Jimmy!<br/>
+<form action="memo" method="post">
+	<table>
+		<tr>
+			<td>Title</td>
+			<td><input type="text" name="title"/></td>
+		</tr>
+		<tr>
+			<td>Amount</td>
+			<td><input type="text" name="amount"/></td>
+		</tr>
+		<tr>
+			<td>Remark</td>
+			<td><input type="text" name="remark"/></td>
+		</tr>
+	</table>
+	<input type="submit"/>
+</form>
 </body>
 </html>
